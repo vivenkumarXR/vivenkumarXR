@@ -14,8 +14,7 @@ Mixed Reality
 Optimization
 
 👀 Find me at
-All over the internet with 🌐 https://www.linkedin.com/in/vivenkumarxr/ 🕊 @vivenkumarXR
-
+All over the internet with 🌐 https://www.linkedin.com/in/vivenkumarxr/ 🕊 @vivenkumarXR 📨 vivek.kumar2154@gmail.com
 Join My Discord channel
 
 https://discord.gg/NPVKsEny
