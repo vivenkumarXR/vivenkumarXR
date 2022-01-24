@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 It's Me Vivek Kumar Yadav
 
 😜 Personal Info
 
@@ -14,7 +14,7 @@ Mixed Reality
 Optimization
 
 👀 Find me at
-All over the internet with 🌐 https://www.linkedin.com/in/vivenkumarxr/ 🕊 @vivenkumarXR 📨 vivek.kumar2154@gmail.com
+All over the internet with @vivenkumarXR 🌐 https://www.linkedin.com/in/vivenkumarxr/ 🕊 @vivenkumarXR 📨 vivek.kumar2154@gmail.com
 Join My Discord channel
 
 https://discord.gg/NPVKsEny
