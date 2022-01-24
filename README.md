@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**vivenkumarXR/vivenkumarXR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+😜 Personal Info
 
-Here are some ideas to get you started:
+I am an XR evangelist primarily focused on utilizing various emerging technologies like IoT(Internet of Things), ML, Digital twin, etc with XR.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#LetsLearnXR #LetsKnowUnity #XoRphilic
+
+💬 Ask me about ...
+Unity development
+Augmented Reality
+Virtual Reality
+Mixed Reality
+Optimization
+
+👀 Find me at
+All over the internet with 🌐 https://www.linkedin.com/in/vivenkumarxr/ 🕊 @vivenkumarXR
+
+Join My Discord channel
+
+https://discord.gg/NPVKsEny
