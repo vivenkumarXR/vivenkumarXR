@@ -1,20 +1,31 @@
-### Hi there 👋 It's Me Vivek Kumar Yadav
 
-😜 Personal Info
+![Vivek Kumar Yadav — XR Solution Architect](./github-banner.png)
 
-I am an XR evangelist primarily focused on utilizing various emerging technologies like IoT(Internet of Things), ML, Digital twin, etc with XR.
+### `XR SOLUTION ARCHITECT · FOUNDER — XORPHILIC`
 
-#LetsLearnXR #LetsKnowUnity #XoRphilic
+I don't just build XR — **I build Intelligent Digital Ecosystems.**
 
-💬 Ask me about ...
-Unity development
-Augmented Reality
-Virtual Reality
-Mixed Reality
-Optimization
+I fuse Physical AI, Edge Computing, IoT, ML, and Digital Twins with Extended Reality to build
+systems that don't just demo well — they ship and scale. I run local LLMs on a Jetson on my desk,
+build real-time voice AI agents, and architect enterprise XR for industry.
 
-👀 Find me at
-All over the internet with @vivenkumarXR 🌐 https://www.linkedin.com/in/vivenkumarxr/ 🕊 @vivenkumarXR 📨 vivek.kumar2154@gmail.com
-Join My Discord channel
+```text
+NOW        →  XR Solution Architect
+COMMUNITY  →  Founder, XoRphilic — 1000+ students mentored into XR
+CERTIFIED  →  Unity (Programmer & VR) · AWS GenAI · Intel AI · GCP
+```
 
-https://discord.gg/NPVKsEny
+#### Selected work
+
+| Project | What it is |
+|---|---|
+| [Real-Time Interruptible Voice AI Agent](https://github.com/vivenkumarXR/Real-Time-Interruptible-Voice-AI-Agent) | Talk over it mid-sentence — it adapts. Llama 3 + Flask + Web Speech API · [demo](https://youtu.be/K5RSe_p_f7A) |
+| VR Vault Trainer | Procedural assembly/disassembly training in VR · [demo](https://youtu.be/ynAnU8y7F1g) |
+| [AR Workbench](https://github.com/vivenkumarXR/ARWorkbench) | IoT sensor data made intuitive through AR overlays |
+| [vivenengine](https://github.com/vivenkumarXR/vivenengine) | A game engine from scratch in C++ |
+
+#### Find me
+
+**[vivenkumarxr.com](https://vivenkumarxr.com)** · [LinkedIn](https://www.linkedin.com/in/vivenkumarxr/) · [Medium](https://medium.com/@vivenkumarXR) · [X](https://x.com/vivenkumarXR) — `@vivenkumarXR` everywhere · [Discord](https://discord.gg/NPVKsEny)
+
+`● OPEN TO — CONSULTING / KEYNOTES / ADVISORY`
